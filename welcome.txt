@@ -1,1 +1,2 @@
 Welcome to Git Demo!
+This is line 2
